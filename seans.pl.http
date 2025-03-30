@@ -1,0 +1,6 @@
+@seans.pl_HostAddress = http://localhost:5126
+
+GET {{seans.pl_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
